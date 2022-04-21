@@ -1,0 +1,5 @@
+neu dung CSDL la postgresl thi:
+postresql.sql => tao table 
+postresql_data.sql => insert data test 
+
+Neu dung CSDL != postresql thi tham khao 2 file: schema.sql de tao table va data.txt de insert data test
